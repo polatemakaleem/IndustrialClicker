@@ -2,7 +2,7 @@
 History Clicker game about Robber Barons and Captains of Industry
 
 To play:
-Open Github Pages (should be on the bottom right) 
+Open Github Pages (should be on the bottom right, under Environments) 
 
 
 WORKS CITED:
