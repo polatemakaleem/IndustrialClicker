@@ -2,8 +2,7 @@
 History Clicker game about Robber Barons and Captains of Industry
 
 To play:
-Open Github Pages (should be on the bottom right, under Environments) 
-
+https://polatemakaleem.github.io/IndustrialClicker/
 
 WORKS CITED:
 
